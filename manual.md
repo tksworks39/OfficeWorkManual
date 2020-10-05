@@ -37,6 +37,7 @@ aaaa*aaaa*aaaa
 あいうえおかきくけこ
 
 Windowsで追加
+Macで追加
 
 test テスト
 テストテスト
