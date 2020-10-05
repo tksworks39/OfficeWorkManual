@@ -34,5 +34,7 @@ aaaa*aaaa*aaaa
 ![画像1](img/image1.jpg)
 ![画像2](img/image2.jpg)
 
+あいうえおかきくけこ
+
 test テスト
 テストテスト
