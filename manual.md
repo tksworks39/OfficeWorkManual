@@ -39,5 +39,9 @@ aaaa*aaaa*aaaa
 Windowsで追加
 Macで追加
 
+- ブランチテスト追加１
+
 test テスト
 テストテスト
+
+- ブランチテスト追加２
